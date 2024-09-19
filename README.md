@@ -3,7 +3,7 @@
 
 
 
-![Abdallah Nasser](https://github.com/AbdallahNasserr/SQL-Mastery-All-HackerRank-Challenges/assets/137197588/34ba967b-68d7-4776-8f9b-41fed21e2952)
+<img width="763" alt="Screenshot 2024-09-19 151708" src="https://github.com/user-attachments/assets/809a7b55-33b1-4f12-beb4-67009768ff33">
 
 
 
@@ -21,4 +21,4 @@ Within this repository, you'll find meticulously crafted solutions to a diverse 
 
 - **Clear Explanations:** Detailed comments accompany each solution, offering clarity on the approach, logic, and rationale behind the code, making it accessible to learners at all levels of proficiency.
 
-- **Practical 
+- **Practical** 
